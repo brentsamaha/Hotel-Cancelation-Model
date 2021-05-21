@@ -1,1 +1,1 @@
-# Hotel-Cancellation-Model
+# Hotel-Cancelation-Model
